@@ -3,5 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Creator of Student 2025
+<html>
+<head>
+<style>
+    h2 {text-align: center;}
+    h1 {text-align: right;}
+</style>
+</head>
+<body>
+<h2>Hello Everyone!
+</body>
