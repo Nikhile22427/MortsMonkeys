@@ -56,6 +56,12 @@ permalink: /about/
             <li style="color: red"><a href="https://rcbonline.net" style="color: red">play RCB2!!!</a></lis>
         </ul>
     </li>
+    <li>Devon Mistry
+        <ul>
+            <li>Dumb mist</li>
+            <li>Made the name</li>
+        </ul>
+    </li>
 </ul>
 <b1>
 </b1>
