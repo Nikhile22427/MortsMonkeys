@@ -6,6 +6,24 @@ hide: true
 permalink: /index
 ---
 <style>
+    h2 {
+        text-align: center; 
+        font-size: 5vw;
+        color: rgb(255, 255, 255);
+        font-family: "Oxygen", Helvetica, sans-serif;
+    }
+    h1 {
+        text-align: left; 
+        font-size: 24pt; 
+        color: rgb(170, 220, 246);
+        font-size: 3.5vw;
+    }
+    body {
+        text-align: left; 
+        background-color: rgb(2, 12, 35);
+        color: rgb(220, 220, 220);
+        font-size: 1.5vw;
+    }
     .button-overlay {
         position: relative;
         width: 110px;

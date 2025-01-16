@@ -37,6 +37,8 @@ permalink: /about/
             <li>nuff' said</li>
         </ul>
     </li>
+</ul>
+<ul>
     <li>Evan Svetina
         <ul>
             <li>Lowkey just a chill guy</li>
@@ -46,6 +48,8 @@ permalink: /about/
             <li>Video game enjoyer</li>
         </ul>
     </li>
+</ul>
+<ul>
     <li>West Stefany
         <ul>
             <li>Also "Lowkey just a chill guy"</li>
@@ -56,6 +60,8 @@ permalink: /about/
             <li style="color: red"><a href="https://rcbonline.net" style="color: red">play RCB2!!!</a></lis>
         </ul>
     </li>
+</ul>
+<ul>
     <li>Devon Mistry
         <ul>
             <li>Dumb mist</li>
@@ -65,4 +71,3 @@ permalink: /about/
 </ul>
 <b1>
 </b1>
-</body>
