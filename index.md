@@ -69,3 +69,9 @@ hide: true
         <iframe width="110" height="100" src="https://www.myinstants.com/instant/prowler-sound-effect-83389/embed/" frameborder="0" scrolling="no"></iframe>
     </div>
 </div>
+
+<a href="https://Nikhile22427.github.io/MortsMonkeys/variables/homework" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Homework</a>
+<a href="https://Nikhile22427.github.io/MortsMonkeys/variables/lessonBook1" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Lesson 1</a>
+<a href="https://Nikhile22427.github.io/MortsMonkeys/variables/lessonBook2" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Lesson 2</a>
+<a href="https://Nikhile22427.github.io/MortsMonkeys/variables/popcornHax" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Popcorn Hacks</a>
+<a href="https://Nikhile22427.github.io/MortsMonkeys/variables/popcornHaxAnswerKey" style="display:inline-block; padding:10px 20px; color:blue; background-color:#007BFF; text-decoration:none; border-radius:5px;">Completed Popcorn Hacks</a>
