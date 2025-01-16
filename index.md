@@ -23,30 +23,6 @@ hide: true
         color: rgb(220, 220, 220);
         font-size: 1.5vw;
     }
-    .button-overlay {
-        position: relative;
-        width: 110px;
-        height: 100px;
-    }
-
-    .custom-button {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: transparent;
-        border: none;
-        cursor: pointer;
-        z-index: 2;
-    }
-
-    .iframe-container {
-        position: absolute;
-        top: 0;
-        left: 0;
-        z-index: 1;
-    }
 </style>
 
 <img src="images/West.png" width="100" height="100">
@@ -93,12 +69,3 @@ hide: true
         <iframe width="110" height="100" src="https://www.myinstants.com/instant/prowler-sound-effect-83389/embed/" frameborder="0" scrolling="no"></iframe>
     </div>
 </div>
-
-<script>
-function handleSecretClick() {
-    // Small delay to allow sound to play before opening new tab
-    setTimeout(() => {
-        window.open('URL_TO_YOUR_SECRET_PAGE', '_blank');
-    }, 100);
-}
-</script>
