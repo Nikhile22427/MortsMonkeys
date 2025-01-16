@@ -3,7 +3,6 @@ layout: base
 title: Student Home 
 description: Home Page
 hide: true
-permalink: /index
 ---
 <style>
     h2 {
