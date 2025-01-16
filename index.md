@@ -28,6 +28,7 @@ hide: true
 <img src="images/West.png" width="100" height="100">
 <img src="images/Nigil.png" width="100" height="100">
 <img src="images/Evan.png" width="100" height="100">
+<img src="images/DumbMist.jpg" width="100" height="100">
 
 <h1>Variables Lesson Homepage</h1>
 <b1>Below is a series of links to each one of the notebook files in this lesson.</b1><br>
@@ -41,9 +42,10 @@ hide: true
 <b1>Secret?</b1>
 <br>
 <div class="button-overlay">
-    <button class="custom-button" onclick="handleSecretClick()"></button>
+    <button class="custom-button" ></button>
     <div class="iframe-container">
         <iframe width="100" height="100" src="https://www.myinstants.com/instant/prowler-sound-effect-83389/embed/" frameborder="0" scrolling="no"></iframe>
     </div>
 </div>
+<a href="https://Nikhile22427.github.io/MortsMonkeys/secret/">The Prowler Calls</a>
 
