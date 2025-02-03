@@ -1,5 +1,5 @@
 import Character from './Character.js';
-import GameEnv from './GameEnv.js';
+import GameEnv from '../rpg/latest/GameEnv.js';
 import Prompt from './Prompt.js';
 
 class Npc extends Character {

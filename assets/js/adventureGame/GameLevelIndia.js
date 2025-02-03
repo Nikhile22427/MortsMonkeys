@@ -1,16 +1,14 @@
-import { GameLevel } from './GameLevel.js'; // Assuming GameLevel.js is your base class
-import { Npc } from './Npc.js'; // The Npc class we've updated
+import { GameLevel } from './GameLevel.js'; 
+import { Npc } from './Npc.js'; 
 
 class GameLevelIndia extends GameLevel {
     constructor() {
         super();
         this.backgroundImage = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiha1emSdoQj5oFOqAEsV6FWSYbTMjw_kdmKq_RI_gSWO-uAw8krF_uOekGhwxTcSpmOY-adK_Pq6vbrs5kg_0bA2r81FXygN43OcCUO8a92lk3gt-QBgUK_0zjNBhXk6PzKRBpZ-N8OhAZ/s1600/gh3.jpg"; // The background image for India
-        this.npcs = this.createIndiaNpcs(); // Set up the NPCs for this level
+        this.npcs = this.createIndiaNpcs(); 
     }
 
-    /**
-     * Creates the NPCs for GameLevelIndia.
-     */
+
     createIndiaNpcs() {
         return [
             new Npc({

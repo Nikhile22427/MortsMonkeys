@@ -38,6 +38,7 @@ comments: true
 <a href="https://Nikhile22427.github.io/MortsMonkeys/variables/popcornHax" style="display:inline-block; padding:10px 20px; color:rgb(139, 238, 255); background-color:rgb(61, 104, 112); text-decoration:none; border-radius:5px;">Popcorn Hax</a><br><br>
 <a href="https://Nikhile22427.github.io/MortsMonkeys/variables/popcornHaxAnswerKey" style="display:inline-block; padding:10px 20px; color:rgb(255, 255, 255)); background-color:rgb(61, 104, 112); text-decoration:none; border-radius:5px;">Popcorn Hax Answer Key</a><br><br>
 <a href="https://Nikhile22427.github.io/MortsMonkeys/variables/homework" style="display:inline-block; padding:10px 20px; color:rgb(139, 238, 255); background-color:rgb(61, 104, 112); text-decoration:none; border-radius:5px;">Homework</a><br><br>
+<a href="https://Nikhile22427.github.io/MortsMonkeys/assets/js/adventureGame" style="display:inline-block; padding:10px 20px; color:rgb(139, 238, 255); background-color:rgb(61, 104, 112); text-decoration:none; border-radius:5px;">Homework</a><br><br>
 
 <br><br><br><br><br>
 <b1>Secret?</b1>
